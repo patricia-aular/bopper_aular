@@ -29,7 +29,7 @@ ul{
     display: flex;
 }
 
-header, footer{
+header{
     display: flex;
     height: 70px;
     justify-content: space-between;
@@ -105,16 +105,13 @@ nav a:hover{
     color: #e5b22f
 }
 
-footer nav{
-    display: flex;
+footer{
     height: 70px;
-    justify-content: start;
     background-color: rgb(161, 97, 221);
     align-items: center;
     width: 100%;
-    overflow-x: hidden;
-
-}
+    margin-bottom: -10%;
+    }
 
 .centrar{
     text-align: center;
@@ -127,4 +124,18 @@ footer nav{
     justify-content: center;
     
     height: calc(100% - 140px);
+}
+
+.imgform{
+    width: 200%;
+    height: auto;
+    margin-top: 35%;
+    padding-left: 25%;
+
+}
+
+form{
+    padding-left: 60%;
+    padding-top: 10%;
+    padding-bottom: 10%;
 }

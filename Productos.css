@@ -91,7 +91,7 @@ nav a{
 nav a:hover{
     color: #e5b22f
 }
-
+/*
 .container section{
     position: relative;
     width: 90%;
@@ -109,10 +109,83 @@ nav a:hover{
     padding: 40px;
     
 }
+*/
 
+/*
 img{
     margin: 30px;
     height: 500px;
     width: 600px; 
     
+}
+*/
+
+.card-img-card1{
+    width: 90%;
+    height: 70%;
+    align-items: center;
+}
+
+.card1{
+    align-items: center;
+    text-align: center;
+}
+
+.card-img-card2{
+    width: 90%;
+    height: 70%;
+    align-items: center;
+}
+
+.card2{
+    align-items: center;
+    text-align: center;
+}
+
+.card-img-card3{
+    width: 90%;
+    height: 70%;
+    align-items: center;
+}
+
+.card3{
+    align-items: center;
+    text-align: center;
+}
+
+.primeralinea{
+    padding-top: 5%;
+}
+
+.card-img-card4{
+    width: 90%;
+    height: 70%;
+    align-items: center;
+}
+
+.card4{
+    align-items: center;
+    text-align: center;
+}
+
+.card-img-card5{
+    width: 90%;
+    height: 70%;
+    align-items: center;
+}
+
+.card5{
+    align-items: center;
+    text-align: center;
+}
+
+.card-img-card6{
+    width: 90%;
+    height: 70%;
+    align-items: center;
+}
+
+.card6{
+    align-items: center;
+    text-align: center;
 }
