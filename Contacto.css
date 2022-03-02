@@ -16,13 +16,9 @@ a{
     text-decoration: none;
     color: black;
 }
-header,footer{
-    display: flex;
-    height: 70px;
-    justify-content: space-between;
+footer{
     background-color: rgb(161, 97, 221);
-    align-items: center;
-    padding: 10px;
+    padding: 15px;
 }
 
 ul{
@@ -30,12 +26,7 @@ ul{
 }
 
 header{
-    display: flex;
-    height: 70px;
-    justify-content: space-between;
     background-color: rgb(161, 97, 221);
-    align-items: center;
-    margin-top: 0.5%;
 }
 
 .menu-icon img{

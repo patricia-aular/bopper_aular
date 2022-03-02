@@ -10,19 +10,21 @@ body{
     margin: 3px;  
 }
 
+/*
 ul{
     display: flex;
 }
+*/
 
-header, footer{
-    display: flex;
-    height: 70px;
-    justify-content: space-between;
+header{
     background-color: rgb(161, 97, 221);
-    align-items: center;
-    margin-top: 0.5%;
 }
 
+footer{
+    background-color: rgb(161, 97, 221);
+    padding: 15px;
+}
+/*
 .menu-icon img{
     display: flex;
     width: 30px;

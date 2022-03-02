@@ -15,25 +15,19 @@ a{
     color: black;
 }
 header{
-    display: flex;
-    height: 70px;
-    justify-content: space-between;
-    background-color: rgb(161, 97, 221);
-    align-items: center;
-    padding: 10px;
+background-color: rgb(161, 97, 221);
+
+
 }
 
 ul{
     display: flex;
 }
 
-header, footer{
-    display: flex;
-    height: 70px;
-    justify-content: space-between;
-    background-color: rgb(161, 97, 221);
-    align-items: center;
-    margin-top: 0.5%;
+footer{
+background-color: rgb(161, 97, 221);
+padding: 15px;
+
 }
 
 .menu-icon img{

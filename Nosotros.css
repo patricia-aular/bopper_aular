@@ -11,25 +11,17 @@ body{
 }
 
 
-a{
-    
-    text-decoration: none;
-    color: black;
+header{
+background-color: rgb(161, 97, 221);
+
 }
 
-ul{
-    display: flex;
-}
-
-header, footer{
-    display: flex;
-    height: 70px;
-    justify-content: space-between;
+footer{
     background-color: rgb(161, 97, 221);
-    align-items: center;
-    margin-top: 0.5%;
+    padding: 15px;
 }
 
+/*
 .menu-icon img{
     display: flex;
     width: 30px;
@@ -99,14 +91,15 @@ nav a{
 nav a:hover{
     color: #e5b22f
 }
+*/
 
 .foton{
     height: auto;
-    width: 50%;
+    width: 80%;
     padding-top: 1%;   
     padding-bottom: 2%;
-    padding-left: 25%;
     grid-area: 1;
+    padding-left: 20%;
 }
 
 .container {
