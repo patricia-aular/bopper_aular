@@ -22,14 +22,19 @@ header,footer{
 }
 */
 
+.animate__bounceOut{
+    text-align: center;
+    margin-top: 5%;
+    animation: bounceOut; 
+    animation-duration: 2s;
+    font-size: 30px;
+}
+
+
 
 .nav-item{
     display: flex;
 
-}
-
-.nav-link:hover{
-    color: #e5b22f
 }
 
 
@@ -41,7 +46,8 @@ header{
 
 footer{
     background-color: rgb(161, 97, 221);
-    padding: 15px;
+    padding: 3%;
+    text-align: center;
 }
 
 
@@ -178,3 +184,5 @@ img:hover {
     align-items: center;
     text-align: center;
 }
+
+

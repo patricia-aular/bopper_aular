@@ -26,10 +26,12 @@ ul{
 
 footer{
 background-color: rgb(161, 97, 221);
-padding: 15px;
+padding: 3%;
+text-align: center;
 
 }
 
+/*
 .menu-icon img{
     display: flex;
     width: 30px;
@@ -81,17 +83,14 @@ padding: 15px;
         left: 0;
     }
 }
-
+*/
 .logo{
     display: flex;
     align-items: center;
 }
 
-.logo img{
-    max-width: 200px;
-    height: auto;
-}
 
+/*
 nav a{
     font-weight: 600px;
     padding-right: 10px;
@@ -100,15 +99,15 @@ nav a{
 nav a:hover{
     color: #e5b22f
 }
+*/
 
-footer{
-    display: flex;
-    height: 70px;
-    justify-content: space-between;
-    background-color: rgb(161, 97, 221);
-    align-items: center;
-    padding: 10px;
-    bottom: 0%;
+
+.imagen{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 50%;
+    padding-top: 1%;   
 }
 
 p{
@@ -117,4 +116,12 @@ p{
     padding-left: 25%;
     padding-right: 25%;
     text-align: justify;
+}
+
+.animate__bounceOut{
+    text-align: center;
+    margin-top: 3%;
+    animation: bounceOut; 
+    animation-duration: 4s;
+    font-size: 30px;
 }

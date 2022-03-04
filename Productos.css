@@ -21,8 +21,9 @@ header{
 }
 
 footer{
-    background-color: rgb(161, 97, 221);
-    padding: 15px;
+        background-color: rgb(161, 97, 221);
+        padding: 3%;
+        text-align: center;
 }
 /*
 .menu-icon img{
@@ -126,6 +127,7 @@ img{
     width: 90%;
     height: 70%;
     align-items: center;
+    
 }
 
 .card1{
@@ -190,4 +192,10 @@ img{
 .card6{
     align-items: center;
     text-align: center;
+    
+}
+
+.primeralinea_animate__shakeY{
+    animation: shakeY; 
+    animation-duration: 2s; 
 }
