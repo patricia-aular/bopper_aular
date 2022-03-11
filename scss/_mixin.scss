@@ -1,0 +1,40 @@
+@mixin card-img-card {
+    .card-img-card1{
+        width: 90%;
+        height: 70%;
+        align-items: center;
+        
+        .card1{
+            align-items: center;
+            text-align: center;
+        }
+    }
+}
+
+.card-img-card2{
+    @include card-img-card;
+}
+
+
+.card-img-card3{
+    @include card-img-card;
+}
+
+
+.primeralinea{
+    padding-top: 5%;
+}
+
+.card-img-card4{
+    @include card-img-card;
+}
+
+
+.card-img-card5{
+    @include card-img-card;
+}
+
+
+.card-img-card6{
+    @include card-img-card;
+}
