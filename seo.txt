@@ -1,0 +1,19 @@
+﻿El seo se lo agregué a todas las páginas con las siguientes características: 
+* Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: 
+
+
+* Index: "Pantalones cómodos, ropa cómoda, para usar como quieras fuera o dentro de casa"
+* Productos: "Pantalones cómodos, para usarlos como quieras fuera o dentro de casa. "
+* Nosotros: "La historia de estos pantalones nació en pandemia por la necesidad de estar más cómodos en casa"
+* Contacto: "para saber más de nosotros y de booper ponte en contacto"
+* Blog: "No te pierdas todos los temas sobre ropa cómoda"
+
+
+
+
+* Encabezado: para el encabezado del h1 utilicé el texto 
+* Index: Los pantalones más cómodos y divertidos del mundo
+* Productos: Pantalones destacados
+* Nosotros: Nuestra historia
+* Contacto: ¿Tienes dudas sobre los pants?
+* Blog: Cómo vestir cómodamente
