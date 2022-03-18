@@ -15,5 +15,8 @@
     "url": "https://github.com/patricia-aular/bopper_aular/issues"
   },
   "homepage": "https://github.com/patricia-aular/bopper_aular#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
