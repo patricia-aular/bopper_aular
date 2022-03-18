@@ -15,6 +15,16 @@
     margin-top: 2%;
     color: rgb(214, 176, 69);
     font-size: 250%;
+    font-weight: bold;
+}
+
+.display-5{
+    text-align: center;
+    margin-top: 3%;
+    color: rgb(214, 176, 69);
+    font-size: 500%;
+    font-weight: bold;
+    margin-bottom: 3%;
 }
 
 .display-4{
@@ -22,6 +32,7 @@
     color: rgb(214, 176, 69);
     font-size: 250%;
     margin-bottom: 3%;
+    font-weight: bold;
 }
 
 .card{
@@ -30,9 +41,21 @@
     margin-bottom: 3%;
     border-color: purple;
     border-width: 4px;
+    height: 25%;
     
 }
 
+.nav4{
+    font-size: 25px;
+}
+
+.nav5{
+    font-size: 25px;
+}
+
+.nav6{
+    font-size: 25px;
+}
 .btn{
 background-color: rgb(214, 176, 69);
 border: none;
@@ -78,6 +101,7 @@ p{
     padding-left: 25%;
     padding-right: 25%;
     text-align: justify;
+    margin-bottom: 5%;
 } 
 
 /* productos */
@@ -87,7 +111,27 @@ p{
     height: 70%;
     align-items: center;
     margin-top: 3%;
-    
+
+}
+
+.card-text1{
+    color: rgb(26, 176, 221);
+    font-size: 25px
+}
+
+.card-text2{
+    color: rgb(42, 221, 26);
+    font-size: 25px
+}
+
+.card-text3{
+    color: rgb(235, 123, 19);
+    font-size: 25px
+}
+
+.card-text4{
+    color: rgb(68, 26, 221);
+    font-size: 25px
 }
 
 .card1{
@@ -187,7 +231,6 @@ height: auto;
     margin-top: 7%;
     display: flex;
     justify-content: center;
-    
     height: calc(100% - 140px);
 }
 
