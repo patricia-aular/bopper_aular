@@ -1,3 +1,13 @@
+*{
+    
+   // margin: 0%;
+   // padding: 0%;
+    box-sizing: border-box;
+   // overflow-x: hidden;
+}
+body{
+    overflow-x: hidden;
+}
 
 .img-fluid{
     margin: 5%;
@@ -235,16 +245,16 @@ height: auto;
 }
 
 .imgform{
-    width: 200%;
+    width: 100%;
     height: auto;
-    margin-top: 35%;
-    padding-left: 25%;
+    margin-top: 32px;
+    //padding-left: 25%;
 
 }
 
 form{
-    padding-left: 60%;
-    padding-top: 10%;
+    //padding-left: 60%;
+    //padding-top: 10%;
     padding-bottom: 10%;
 }
 
@@ -270,10 +280,6 @@ p{
     text-align: justify;
 }
 
-.animate__bounceOut{
-    text-align: center;
-    margin-top: 3%;
-    animation: bounceOut; 
-    animation-duration: 4s;
-    font-size: 30px;
+.navbar-brand img{
+max-width: 150px;
 }
