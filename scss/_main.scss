@@ -127,11 +127,7 @@ p{
     margin-top: 3%;
 
 }
-@media screen and (max-width: 700px) {
-    p {
-        padding-left: 32px;
-        padding-right: 32px;
-    }
+
 .card-text1{
     color: rgb(26, 176, 221);
     font-size: 25px
@@ -151,7 +147,7 @@ p{
 .card-text4{
     color: rgb(68, 26, 221);
     font-size: 25px
-    }
+    
 }
 
 .card1{
@@ -290,16 +286,23 @@ form{
     padding-top: 1%;   
 }
 
-@media screen and (max-width: 700px){ 
+
 p{
     margin-top: 2%;
     bottom: 5%;
     padding-left: 25%;
     padding-right: 25%;
     text-align: justify;
-    }
+    
 }
 
 .navbar-brand img{
 max-width: 150px;
 }
+
+@media screen and (max-width: 700px) {
+    p {
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+    }
